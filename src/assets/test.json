@@ -1,0 +1,17 @@
+{
+    "members":[{
+        "id" : "123",
+    "cin" : "000",
+    "cv" : "***",
+    "name" :"ahmed",
+    "type" : "etudiant",
+    "createdDate" : "16/09/2024"
+    },{
+        "id" : "124",
+    "cin" : "0001",
+    "cv" : "***",
+    "name" :"Med",
+    "type" : "etudiant",
+    "createdDate" : "16/09/2024"
+    }]
+}

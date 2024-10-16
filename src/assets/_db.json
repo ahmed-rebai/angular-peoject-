@@ -1,0 +1,52 @@
+{
+  "members": [
+    {
+      "cin2": null,
+      "cin": "000",
+      "name": "ahmed",
+      "cv": "***",
+      "type": "student",
+      "createdDate": "2024-10-16T10:46:07.162Z",
+      "id": "123"
+    },
+    {
+      "cin2": null,
+      "cin": "111122",
+      "name": "Mohamed",
+      "cv": "test",
+      "type": "student",
+      "createdDate": "2024-10-02T09:29:36.391Z",
+      "id": "2dcc"
+    }
+  ],
+  "Events": [
+    {
+      "id": "12",
+      "title": "conf",
+      "dateDebut": "12/2/2024",
+      "dateFin": "15/2/2024",
+      "lieu": "sfax"
+    },
+    {
+      "id": "14",
+      "title": "confer",
+      "dateDebut": "11/2/2024",
+      "dateFin": "15/2/2024",
+      "lieu": "sfax"
+    },
+    {
+      "id": "83ff",
+      "cin": null,
+      "name": null,
+      "cv": null,
+      "type": null
+    },
+    {
+      "id": "ed4f",
+      "title": "133",
+      "dateDebut": "2024-10-15T23:00:00.000Z",
+      "dateFin": "2024-10-23T23:00:00.000Z",
+      "lieu": "sfax"
+    }
+  ]
+}
